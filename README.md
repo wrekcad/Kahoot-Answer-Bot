@@ -31,13 +31,14 @@ By WODdev
 Enter uuid:
 ```
 - now enter the kahoot uuid that appears after the quizId statement in the kahoot link.
-- **EXAMPLE**:
+
+### **EXAMPLE**:
 ```
 d48a7243-48b4-457f-b69a-19be0182dfa5
 ```
-```
-Example output:
 
+Example output:
+```
 red
 1: Amygdala
 
@@ -51,3 +52,7 @@ etc..
 
 Press shift to auto answer when ready...
 ```
+- Finally, press shift to automatically move the mouse cursor to the answer when ready.
+
+## HAVE FUN!
+**Liscence** : MIT

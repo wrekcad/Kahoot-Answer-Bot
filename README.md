@@ -1,6 +1,9 @@
 # Kahoot-Answer-Bot
 Simple Kahoot answer bot with automatic answer feature.
 
+![thumbnail](https://github.com/WODdev/Kahoot-Answer-Bot/assets/150499155/9c1425ef-8928-481c-8d97-a31800402b51)
+
+
 ## **USAGE**:
 
 - install the necessary packages:
